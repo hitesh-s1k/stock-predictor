@@ -260,4 +260,4 @@ if run_btn or "ran_once" not in st.session_state:
     st.pyplot(fig2)
 
     st.info("Tip: Try different α values, symbols (e.g., RELIANCE.NS, TCS.NS), and horizons.")
-```
+
