@@ -1,4 +1,4 @@
-```python
+
 # app.py
 # 📈 Streamlit Stock Price Predictor — refurbished (fixes pandas bdate_range error)
 
